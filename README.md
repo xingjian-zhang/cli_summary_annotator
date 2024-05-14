@@ -11,3 +11,9 @@ Run the tool:
 ```bash
 python annotator.py
 ```
+
+Screenshots:
+
+![alt text](screenshot_1.png)
+
+![alt text](screenshot_2.png)
