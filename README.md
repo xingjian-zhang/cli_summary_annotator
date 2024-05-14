@@ -14,6 +14,6 @@ python annotator.py
 
 Screenshots:
 
-![alt text](screenshot_1.png)
+![alt text](./assets/screenshot_1.png)
 
-![alt text](screenshot_2.png)
+![alt text](./assets/screenshot_2.png)
