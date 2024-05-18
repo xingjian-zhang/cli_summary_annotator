@@ -37,12 +37,12 @@ def annotate_document(document):
 
     start_time = time.time()
     console.print(
-        "\nContext: [i]The current research frontier in literature. This could normally be a problem or a research gap that is not successfully addressed by previous work.[/i]",
+        "\nContext: [i]The status quo of related literature or reality which motivated this study. This could normally be a problem or a research gap that has not been successfully addressed by previous work..[/i]",
         style="magenta")
     context = ask_with_limit("Enter context:\n")
 
     console.print(
-        "\nKey Idea: [i]The unique contribution of this paper. This could normally be a novel idea or solution proposed in this paper that distinguishes it from what’s already done in literature.[/i]",
+        "\nKey Idea: [i]The main intellectual merit of this paper, often in comparison to the context. This could normally be a novel idea or solution proposed in this paper that distincts it from what’s already done in literature.[/i]",
         style="magenta")
     key_idea = ask_with_limit("Enter key idea:\n")
 
